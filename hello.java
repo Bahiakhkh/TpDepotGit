@@ -6,7 +6,7 @@ public class Greeting {
         Scanner scanner = new Scanner(System.in);
         
         // Demander à l'utilisateur son nom
-        System.out.print("Entrez votre nom : ");
+        System.out.print("Entrez votre prenom : ");
         String name = scanner.nextLine();
         
         // Afficher un message de salutation
